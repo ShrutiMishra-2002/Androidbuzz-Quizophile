@@ -17,7 +17,7 @@ class Result : AppCompatActivity() {
 
         congo.text="Congratulations ${userName} !!"
         Score.text="${score} / ${totalQuestion}"
-        button.setOnClickListener {
+        finishButton.setOnClickListener {
             startActivity(Intent(this,MainActivity::class.java))
             finish()
         }
