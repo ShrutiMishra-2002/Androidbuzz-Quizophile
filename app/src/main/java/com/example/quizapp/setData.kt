@@ -10,53 +10,53 @@ object setData {
 
        var question1 = QuestionData(
            1,
-           "what is capital of India ?",
+           "What is the full form of DBMS?",
 
-           "Uttar Pradesh",
-           "Madhya Pradesh",
-           "Kanpur",
-           "New Delhi",
-           4
+           "Data of Binary Management System",
+           "Database Management System",
+           "Database Management Service",
+           "Data Backup Management System",
+           2
        )
        var question2 = QuestionData(
            2,
-           "Who was the first Indian woman in Space ?",
+           "Operating system is a collection of ?" ,
 
-           "Kalpana Chawla",
-           "Sunita Williams",
-           "Koneru Humpy",
-           "None of the above",
+           "Software routines",
+           "Input-output devices",
+           "Hardware components",
+           "All of these",
            1
        )
        var question3 = QuestionData(
            3,
-           "Who wrote the Indian National Anthem ?",
+           "How can we describe an array in the best possible way?",
 
-           "Bakim Chandra Chatterji",
-           "Rabindranath Tagore",
-           "Swami Vivekanand",
-           "None of the above",
+           "The Array shows a hierarchical structure",
+           "Container that stores the elements of similar types",
+           "Arrays are immutable",
+           "The Array is not a data structure",
            2
        )
        var question4 = QuestionData(
            4,
-           "Who was the first President of India ?",
+           "Which type of data can be stored in the database?",
 
-           "Abdul Kalam",
-           "Lal Bahadur Shastri",
-           "Dr. Rajendra Prasad",
-           "Zakir Hussain",
-           3
+           "Image oriented data",
+           "Text, files containing data",
+           "Data in the form of audio or video",
+           "All of the above",
+           4
        )
 
        var question5 = QuestionData(
            5,
-           "Who built the Jama Masjid ?",
+           "How can we initialize an array in C language?",
 
-           "Jahangir",
-           "Akbar",
-           "Imam Bukhari",
-           "Shah Jahan",
+           "int arr[2]=(10, 20)",
+           "int arr(2)={10, 20}",
+           "int arr(2) = (10, 20)",
+           "int arr[2] = {10, 20}",
            4
        )
 
