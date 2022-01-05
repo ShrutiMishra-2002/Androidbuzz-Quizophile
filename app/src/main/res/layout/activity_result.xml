@@ -12,9 +12,9 @@
     <ImageView
         android:id="@+id/img2"
         android:layout_width="wrap_content"
-        android:layout_height="100dp"
+        android:layout_height="220dp"
         android:layout_marginBottom="20dp"
-        android:src="@drawable/hurray"
+        android:src="@drawable/win"
 
         />
 
