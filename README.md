@@ -1,7 +1,7 @@
 
-## Calculation app using kotlin
+## Quiz App using kotlin
 <br>
-<img src="kotlinbanner.jpg" alt="banner" width="900px" height="300px">
+<img src="readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
 <br><br>
 
 <h2> What is Kotlin? :</h2> 
@@ -10,14 +10,32 @@
 Kotlin is designed to run on a Java Virtual Machine and can run side by side with Java. Although Kotlin first started as a language for Android development specifically, it quickly spread through the Java community because of its features and has since been used for many types of applications.
 </p> 
 <br><br>
-
+<h2> Problem statement for the project : </h2>
+<br><br>
+<p>
+</p>
+<br><br>
 <h2> About this project : </h2>
 <br><br>
 <p>
-Calculator app is made using kotlin language.
-This is a simple app that performs calculation like addition, subtraction, multiplication, division and clear operation.
+Quizophile is a quiz app made using kotlin, this app contents all the questions from the engineering core subjects i.e O.S, D.B.M.S etc.
+This app can be converted for any subjects in any language.  
 </p>
 <br><br>
+<h2> Solution for the problem statement : </h2>
+<br><br>
+<p>
+As we all know about the ongoing pandemic situation all the education institues have shifted to online mode for the teaching and learning,
+this app will give a fun filled learning experience to students without any boredom, students can attempt the quiz any time at any place without 
+waiting for their laptops or pc's. This app is an initiative to enchance students learning experience without spending any extra penny.
+</p>
+<br><br>
+<h2> Updates that we are working on : </h2>
+<br><br>
+<p>
+</p>
+
+
 
 ## 📌 Tech Stack:
 <br><br>
@@ -29,25 +47,25 @@ This is a simple app that performs calculation like addition, subtraction, multi
 <br><br>
 <h2>App image</h2>
 <br><br>
-<h2>Addition</h2>
+<h2>Splash screen</h2>
 
-<img src="images/add.png" alt="output" width="250px" height="500px">
+<img src="readmefolder/add.png" alt="output" width="250px" height="500px">
 <br><br>
-<h2>Subtraction</h2>
+<h2>Name field</h2>
 
-<img src="images/subt.png" alt="output" width="250px" height="500px">
+<img src="readmefolder/subt.png" alt="output" width="250px" height="500px">
 <br><br>
-<h2>Multiplication</h2>
+<h2>Question section</h2>
 
-<img src="images/mult.png" alt="output" width="250px" height="500px">
+<img src="readmefolder/mult.png" alt="output" width="250px" height="500px">
 <br><br>
-<h2>Division</h2>
+<h2>Final Score</h2>
 
-<img src="images/divi.png" alt="output" width="250px" height="500px">
+<img src="readmefolder/divi.png" alt="output" width="250px" height="500px">
 <br><br>
 <h2>Clear</h2>
 
-<img src="images/clear.png" alt="output" width="250px" height="500px">
+<img src="readmefolder/clear.png" alt="output" width="250px" height="500px">
 <br><br>
 
 
