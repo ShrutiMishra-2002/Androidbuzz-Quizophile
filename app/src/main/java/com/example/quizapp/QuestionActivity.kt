@@ -98,13 +98,6 @@ class QuestionActivity : AppCompatActivity() {
         // This Handles the Navigation menu click Events
         navigationView.setNavigationItemSelectedListener {
             when (it.itemId) {
-                R.id.btnAboutTheApp -> {
-                    var aboutAppIntent = Intent(
-                        Intent.ACTION_VIEW,
-                        Uri.parse("https://github.com/ShrutiMishra-2002/Quizophile/blob/main/README.md")
-                    )
-                    startActivity(aboutAppIntent)
-                }
 
                 R.id.btnGithub -> {
                     var aboutAppIntent = Intent(
