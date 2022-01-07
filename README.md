@@ -1,6 +1,6 @@
 ## Android-Study-Jams
-Quizophile: An interactive quiz app
-<br>
+<h2>Quizophile: An interactive quiz app</h2>
+<br><br><br>
 <img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
 <br><br>
 
@@ -21,8 +21,8 @@ This app can be converted for any subjects in any language for an branch.
 <br><br>
 <p>
 Due to online mode of teaching students face issue in concentrating to virtual sessions as there is less interaction between teacher and students. 
-Technology plays a vital role in day-to-day and this can also help in solving this issue.
-An interactive and fun filled Mobile Application can be used effectively for this issue as they are widely used and are known for easy access with or without network connectivity.
+Technology plays a vital role in day-to-day life and this can also help in solving this issue.
+An interactive and fun filled Mobile Application can be used effectively for getting students focus back to studies as they are widely used and are known for easy access with or without network connectivity.
 </p>
 <br><br>
 <h2> Solution for the problem statement : </h2>
@@ -30,7 +30,7 @@ An interactive and fun filled Mobile Application can be used effectively for thi
 <p>
 As we all know about the ongoing pandemic situation all the education institues have shifted to online mode for the teaching and learning,
 this app will give a fun filled learning experience to students without any boredom, students can attempt the quiz any time at any place without 
-waiting for their laptops or pc's or net.This app is an offline app so users can  This app is an initiative to enchance students learning experience without spending any extra penny.
+waiting for their laptops or pc's or internet connection as this app is an offline app. This app is an initiative to enchance students learning experience without spending any extra penny.
 </p>
 <br><br>
 <h2> Updates that we are working on : </h2>
