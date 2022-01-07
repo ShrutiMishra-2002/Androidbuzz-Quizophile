@@ -62,7 +62,7 @@ Following are few android concepts used to achieve the functionalities in app:
 ## 📌 Main Page:
 <br><br>
 <h2>Splash screen</h2>
-<img src="/readmefolder/app.jpeg" alt="output" width="500px" height="300px">
+<img src="/readmefolder/app.jpeg" alt="output" width="600px" height="400px">
 <br><br>
 <h2>Name field</h2>
 <img src="/readmefolder/name.jpeg" alt="output" width="500px" height="300px">
