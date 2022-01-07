@@ -48,6 +48,7 @@ Following are few android concepts used to achieve the functionalities in app:
 <li>Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.</li>
 <li>Simple & Easy Views Design : Interactive buttons made it easier for users to go ahead to next question.</li>
 <li>Animation : Attractive animation is used for the splash screen to make the app more applying to users.</li>
+<li>Navigation Drawer : Attractive navigation drawer that features our social accounts that can be followed by the users.</li>
 </ul>
 
 
