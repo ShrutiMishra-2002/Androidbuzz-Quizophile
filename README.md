@@ -1,7 +1,7 @@
 ## Android-Study-Jams
 Quizophile: An interactive quiz app
 <br>
-<img src="kotlinbanner.jpg" alt="banner" width="900px" height="300px">
+<img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
 <br><br>
 
 <h2> What is Kotlin? </h2> 
