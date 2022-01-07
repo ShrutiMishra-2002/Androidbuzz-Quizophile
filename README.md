@@ -58,7 +58,9 @@ Following are few android concepts used to achieve the functionalities in app:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
-
+## 📌 Apk :
+<a href="quizophile.apk"></a>
+<br><br>
 ## 📌 Main Page:
 <br><br>
 <h2>Splash screen</h2>
