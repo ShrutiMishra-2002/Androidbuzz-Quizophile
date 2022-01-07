@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:title="About The App"
-        android:id="@+id/btnAboutTheApp" />
-    <item android:title="LinkedIn"
-        android:id="@+id/btnLinkedIn" />
-    <item android:title="Github"
-        android:id="@+id/btnGithub"/>
+    <item
+        android:id="@+id/btnAboutTheApp"
+        android:icon="@drawable/ic_about_"
+        android:title="About The App" />
+
+    <item
+        android:id="@+id/btnLinkedIn"
+        android:icon="@drawable/ic_person"
+        android:title="LinkedIn" />
+
+    <item
+        android:id="@+id/btnGithub"
+        android:icon="@drawable/ic_code"
+        android:title="Github" />
 </menu>

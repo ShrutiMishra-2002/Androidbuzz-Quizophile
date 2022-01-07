@@ -9,9 +9,11 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         window.decorView.systemUiVisibility= View.SYSTEM_UI_FLAG_FULLSCREEN
         button.setOnClickListener {
             if(input.text.toString().isEmpty())
@@ -20,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             }
             else{
                 var intent = Intent(this,QuestionActivity::class.java)
-                intent.putExtra("${setData.name}",input.text.toString())
+                intent.putExtra(QuestionDummyData.name,input.text.toString())
                 startActivity(intent)
                 finish()
             }
