@@ -1,4 +1,4 @@
-## Android-Study-Jams
+## Android-Study-Jams: Android buzz
 <br><br>
 <h3 align="center">***************Quizophile: An interactive quiz app***************</h3>
 <br><br>
