@@ -61,31 +61,28 @@ Following are few android concepts used to achieve the functionalities in app:
 
 ## 📌 Main Page:
 <br><br>
-<h2>App image</h2>
-<img src="/readmefolder/appimage.jpg" alt="output" width="250px" height="500px">
-<br><br>
 <h2>Splash screen</h2>
-<img src="/readmefolder/splashscreen.jpg" alt="output" width="250px" height="500px">
+<img src="/readmefolder/app.jpeg" alt="output" width="250px" height="500px">
 <br><br>
 <h2>Name field</h2>
-<img src="/readmefolder/name.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/name.jpeg" alt="output" width="250px" height="500px">
+<br><br>
+<h2>Navigation drawer</h2>
+<img src="/readmefolder/nav.jpeg" alt="output" width="250px" height="500px">
 <br><br>
 <h2>Question section</h2>
-<img src="/readmefolder/q1.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/q1.jpeg" alt="output" width="250px" height="500px">
 <br><br>
-<img src="/readmefolder/q2.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/q2.jpeg" alt="output" width="250px" height="500px">
 <br><br>
-<img src="/readmefolder/q3.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/q3.jpeg" alt="output" width="250px" height="500px">
 <br><br>
-<img src="/readmefolder/q4.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/q4.jpeg" alt="output" width="250px" height="500px">
 <br><br>
-<img src="/readmefolder/q5.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/q5.jpeg" alt="output" width="250px" height="500px">
 <br><br>
 <h2>Final Score</h2>
-<img src="/readmefolder/final.png" alt="output" width="250px" height="500px">
-<br><br>
-<h2>Clear</h2>
-<img src="/readmefolder/clear.png" alt="output" width="250px" height="500px">
+<img src="/readmefolder/finalscore.jpeg" alt="output" width="250px" height="500px">
 <br><br>
 
 <h2>📌 Contact :</h2>
