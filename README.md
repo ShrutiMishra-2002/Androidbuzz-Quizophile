@@ -2,7 +2,7 @@
 <br><br>
 <h3 align="center">***************Quizophile: An interactive quiz app***************</h3>
 <br><br>
-<img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
+<img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="400px">
 <br><br>
 
 <h2> What is Kotlin? </h2> 
@@ -93,7 +93,7 @@ Following are few android concepts used to achieve the functionalities in app:
 <img src="/readmefolder/q5.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h2>Final Score</h2>
-<img src="/readmefolder/finalscore.jpeg" alt="output" width="700px" height="400px">
+<img src="/readmefolder/score.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 
 <h2>📌 Contact :</h2>
