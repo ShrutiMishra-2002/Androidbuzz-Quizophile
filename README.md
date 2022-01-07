@@ -49,7 +49,7 @@ Following are few android concepts used to achieve the functionalities in app:
 <li>Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.</li>
 <li>Simple & Easy Views Design : Interactive buttons made it easier for users to go ahead to next question.</li>
 <li>Animation : Attractive animation is used for the splash screen to make the app more applying to users.</li>
-<li>Navigation Drawer : Attractive navigation drawer that features our social accounts that can be followed by the users.</li>
+<li>Navigation Drawer : Attractive navigation drawer that features developer's social media accounts that can be followed by the users.</li>
 </ul>
 
 <br><br>
@@ -62,13 +62,13 @@ Following are few android concepts used to achieve the functionalities in app:
 ## 📌 Main Page:
 <br><br>
 <h2>Splash screen</h2>
-<img src="/readmefolder/app.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/app.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h2>Name field</h2>
-<img src="/readmefolder/name.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/name.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h2>Navigation drawer</h2>
-<img src="/readmefolder/nav.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/nav.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h2>Question section</h2>
 <br>
@@ -78,22 +78,22 @@ Following are few android concepts used to achieve the functionalities in app:
 <br><br>
 <h3>Question 2</h3>
 <br>
-<img src="/readmefolder/q2.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/q2.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h3>Question 3</h3>
 <br>
-<img src="/readmefolder/q3.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/q3.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h3>Question 4</h3>
 <br>
-<img src="/readmefolder/q4.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/q4.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h3>Question 5</h3>
 <br>
-<img src="/readmefolder/q5.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/q5.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 <h2>Final Score</h2>
-<img src="/readmefolder/finalscore.jpeg" alt="output" width="600px" height="400px">
+<img src="/readmefolder/finalscore.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 
 <h2>📌 Contact :</h2>
