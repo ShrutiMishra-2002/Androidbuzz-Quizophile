@@ -1,6 +1,7 @@
 ## Android-Study-Jams
-<h2>Quizophile: An interactive quiz app</h2>
-<br><br><br>
+<br><br>
+<h3>Quizophile: An interactive quiz app</h3>
+<br><br>
 <img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
 <br><br>
 
@@ -51,7 +52,7 @@ Following are few android concepts used to achieve the functionalities in app:
 <li>Navigation Drawer : Attractive navigation drawer that features our social accounts that can be followed by the users.</li>
 </ul>
 
-
+<br><br>
 ## 📌 Tech Stack:
 <br><br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
