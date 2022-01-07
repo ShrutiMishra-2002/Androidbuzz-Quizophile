@@ -1,6 +1,6 @@
 ## Android-Study-Jams
 <br><br>
-<h3>Quizophile: An interactive quiz app</h3>
+<h3>***************Quizophile: An interactive quiz app***************</h3>
 <br><br>
 <img src="/readmefolder/kotlinbanner.jpg" alt="banner" width="900px" height="300px">
 <br><br>
