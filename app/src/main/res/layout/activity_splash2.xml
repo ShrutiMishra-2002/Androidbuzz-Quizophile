@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/blue"
+    android:background="@drawable/background2"
     android:padding="10dp"
     android:gravity="center"
     tools:context=".SplashActivity">
@@ -16,26 +16,41 @@
         android:id="@+id/lottie"
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        app:lottie_autoPlay="true"
-        app:lottie_rawRes="@raw/animation"
+        android:layout_marginTop="120dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/animation" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
         android:layout_marginTop="50dp"
         android:gravity="center"
-        android:text="@string/quizophile"
-        android:textColor="@color/white"
+        android:text="@string/QUIZOPHILE"
+        android:textColor="@color/redquiz"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lottie" />
 
+    <TextView
+        android:id="@+id/sentence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:text="Knowledge without action is meaningless"
+        android:textColor="@color/redquiz"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.842"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

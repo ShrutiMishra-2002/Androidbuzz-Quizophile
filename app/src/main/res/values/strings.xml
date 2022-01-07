@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Quizophile</string>
     <string name="quizophile">Quizophile</string>
+    <string name="QUIZOPHILE">QUIZOPHILE</string>
+    <string name="welcome_to_quizophile">Welcome to Quizophile</string>
 </resources>
