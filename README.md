@@ -14,8 +14,8 @@ Kotlin is designed to run on a Java Virtual Machine and can run side by side wit
 <h2> About this project : </h2>
 <br><br>
 <p>
-Quizophile is a quiz app made using kotlin, this app contain all the questions from the engineering core subjects i.e OS, DBMS, DS etc.
-This app can be converted for any subjects in any language for an branch.  
+Quizophile is an interactive quiz app made using kotlin, this app contain all the questions from the engineering core subjects i.e OS, DBMS, DS etc.
+This app can be converted for any subjects in any language for all branches.  
 </p>
 <br><br>
 <h2> Problem statement for the project : </h2>
