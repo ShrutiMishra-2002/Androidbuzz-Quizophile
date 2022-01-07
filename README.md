@@ -53,14 +53,17 @@ Following are few android concepts used to achieve the functionalities in app:
 </ul>
 
 <br><br>
+
 ## 📌 Tech Stack:
 <br><br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
+
 ## 📌 Apk :
 <p>Apk present in the release section</p>
 <br><br>
+
 ## 📌 Main Page:
 <br><br>
 <h2>Splash screen</h2>
@@ -98,7 +101,7 @@ Following are few android concepts used to achieve the functionalities in app:
 <img src="/readmefolder/score.jpeg" alt="output" width="700px" height="400px">
 <br><br>
 
-<h2>📌 Contact :</h2>
+## 📌 Contact:
 <br><br>
 
 <div align="center">
