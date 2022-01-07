@@ -3,6 +3,7 @@ package com.example.quizapp
 import android.content.Intent
 import android.graphics.Color
 import android.graphics.Typeface
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
@@ -85,7 +86,6 @@ class QuestionActivity : AppCompatActivity() {
             }
             selecedOption = 0
         }
-
     }
 
     private fun setUpNavDrawer() {
@@ -99,19 +99,27 @@ class QuestionActivity : AppCompatActivity() {
         navigationView.setNavigationItemSelectedListener {
             when (it.itemId) {
                 R.id.btnAboutTheApp -> {
-                    Toast.makeText(
-                        this,
-                        "About the App Screen will show up in 3..2...1",
-                        Toast.LENGTH_SHORT
-                    ).show()
+                    var aboutAppIntent = Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("https://github.com/ShrutiMishra-2002/Quizophile/blob/main/README.md")
+                    )
+                    startActivity(aboutAppIntent)
                 }
 
                 R.id.btnGithub -> {
-
+                    var aboutAppIntent = Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("https://github.com/ShrutiMishra-2002")
+                    )
+                    startActivity(aboutAppIntent)
                 }
 
                 R.id.btnLinkedIn -> {
-
+                    var aboutAppIntent = Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("https://www.linkedin.com/in/shruti-mishra-b270a7203")
+                    )
+                    startActivity(aboutAppIntent)
                 }
             }
             return@setNavigationItemSelectedListener true
