@@ -7,14 +7,16 @@ import android.os.Handler
 import android.os.Looper
 import android.widget.Button
 
-class SplashActivity2 : AppCompatActivity() {
+class SplashActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash2)
+
         Handler(Looper.getMainLooper()).postDelayed({
             startActivity(Intent(this, MainActivity::class.java))
             finish()
-        }, 6000)
+        }, 3000)
     }
 }
 
