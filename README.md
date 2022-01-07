@@ -59,7 +59,7 @@ Following are few android concepts used to achieve the functionalities in app:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
 ## 📌 Apk :
-<h3>Apk present in the release section</h3>
+<p>Apk present in the release section</p>
 <br><br>
 ## 📌 Main Page:
 <br><br>
